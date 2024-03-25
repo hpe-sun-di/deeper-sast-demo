@@ -1,0 +1,9 @@
+/workspaces/deeper-sast-demo/src/main/java/com/dashboardmanager/repository/UsersRepository.java
+/workspaces/deeper-sast-demo/src/main/java/com/dashboardmanager/repository/SessionsRepository.java
+/workspaces/deeper-sast-demo/src/main/java/com/dashboardmanager/DashboardManagerApplication.java
+/workspaces/deeper-sast-demo/src/main/java/com/dashboardmanager/utils/SessionHeader.java
+/workspaces/deeper-sast-demo/src/main/java/com/dashboardmanager/model/User.java
+/workspaces/deeper-sast-demo/src/main/java/com/dashboardmanager/model/Session.java
+/workspaces/deeper-sast-demo/src/main/java/com/dashboardmanager/utils/EncodingUtils.java
+/workspaces/deeper-sast-demo/src/main/java/com/dashboardmanager/utils/FileUtils.java
+/workspaces/deeper-sast-demo/src/main/java/com/dashboardmanager/controller/UserController.java
